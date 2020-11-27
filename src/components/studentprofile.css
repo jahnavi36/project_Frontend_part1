@@ -1,0 +1,8 @@
+.navbar {
+  background:grey;
+  color:blue;
+  position:sticky;
+}
+.details {
+    text-align:left;
+}
